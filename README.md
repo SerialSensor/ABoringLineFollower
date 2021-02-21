@@ -37,7 +37,7 @@ Here's how you build the lazy bot. "Lazy" since almost everything comes with the
 | Motor driver L298N|[ebay](https://www.ebay.com/itm/L298N-DC-Stepper-Motor-Driver-Module-Dual-H-Bridge-Control-Board-for-Arduino-US/392861171296?hash=item5b7859be60:g:l1QAAOSwCMxe21dq)  |
 |2WD chassis |[amazon](https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_15?dchild=1&keywords=2WD+chassis&qid=1613756390&sr=8-15)|
 |Breadboard| [ebay](https://www.ebay.com/itm/5pcs-SYB-170-Mini-Breadboard-Colorful-Breadboard-Prototype-Small-Plates/352623796461?hash=item521a0420ed:g:SRwAAOSwpZpclGfA)|
-|Bluetooth module HC-06 (or usb cable, see fast bot)|[ebay](https://www.ebay.com/itm/1PCS-Slave-HC-06-Wireless-Bluetooth-Transeiver-RF-Master-Module-for-Arduino/312551823284?hash=item48c58a57b4:g:wgsAAOSw5m9fQ6rx)|
+|Bluetooth module HC-05 / HC-06 (or usb cable, see fast bot)|[ebay](https://www.ebay.com/itm/1PCS-Slave-HC-06-Wireless-Bluetooth-Transeiver-RF-Master-Module-for-Arduino/312551823284?hash=item48c58a57b4:g:wgsAAOSw5m9fQ6rx)|
 |Female-Male jumper wires| [ebay](https://www.ebay.com/itm/Wire-Cable-Male-to-Female-Ribbon-Dupont-Jumper/224338334534?hash=item343b9b5346:g:imIAAOSw~xRgGrT0)|
 |Magnetic car phone mount| [aliexpress](https://www.aliexpress.com/item/4001141818390.html?spm=a2g0o.productlist.0.0.3332259ajzEPxO&algo_pvid=eb210c7e-4940-40af-9eb8-64d94017fdbb&algo_expid=eb210c7e-4940-40af-9eb8-64d94017fdbb-6&btsid=2100bdca16137527752533041e69f6&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) or [print it](https://www.thingiverse.com/thing:4763685) |
 | electrical tape for the line |-|
